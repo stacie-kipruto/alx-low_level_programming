@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - prints your code
- * Return: it will return 0 if properly executed, if not 0 it will return other..
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
