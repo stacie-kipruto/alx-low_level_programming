@@ -1,3 +1,3 @@
 # C - Variables, If, Else, While
-- This repo contains c programmes and low language programming exercises.
-- It also contains operators and operands used in C-programming.
+- This repo contains programmes and low language programming exercises in C.
+- Contains operators and operands used in C-programming.
