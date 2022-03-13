@@ -10,5 +10,5 @@
 -  File 4-Hello, puts is a programme that prints "Programming is like building a multilingual puzzle, followed by a new line. Uses the function puts and ends with a value 0
 -  File 5-Hello, printf is a programme that prints "with proper grammar, but the outcome is a piece of art,, followed by a new line. Using the function printf, returns a value ending with 0 and compiled using -Wall gcc
 -  File 6-Size is not grandeur is a program that prints the size of various types on the computer it is compiled and run on.
--  File 7-Intel is a script that generates the assembly code (Intel syntax) of a C code and save it in an output file. The file is saved on a variable $CFILE
--  File 8-Unix is a programme that prints "and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error. compiled using -Wall gcc
+-  File 100-Intel is a script that generates the assembly code (Intel syntax) of a C code and save it in an output file. The file is saved on a variable $CFILE
+-  File 101-quote.c -Unix is a programme that prints "and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error. compiled using -Wall gcc
