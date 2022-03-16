@@ -27,4 +27,5 @@
 # main.h 
 - A folder containing the prototypes to be used in these exercises
 
-# _ putchar.c
+# _putchar.c
+- A prototype that will be used whenever the _putchar function is invoked
