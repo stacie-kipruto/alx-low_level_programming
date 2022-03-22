@@ -12,3 +12,9 @@ Low level programming exercises on pointers, arrays and strings
 - File 7-puts_half.c: a function that prints half of a string, followed by a new line. The function should print the second half of the string, If the number of characters is odd, the function should print the last n characters of the string, where n = (length_of_the_string - 1) / 2
 - File 8-print_array.c: a function that prints n elements of an array of integers, followed by a new line, where n is the number of elements of the array to be printed, Numbers must be separated by comma, followed by a space, numbers should be displayed in the same order as they are stored in the array
 - File 9-strcpy.c: a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest, Return value: the pointer to dest
+
+# main.h
+- A file containing prototypes used for the projects
+
+# _putchar.c
+- A file containing _putchar.c function. This is because the projects do not allow the use of a standard library. 
