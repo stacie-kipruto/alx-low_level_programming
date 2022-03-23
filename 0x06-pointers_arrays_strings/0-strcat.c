@@ -2,8 +2,8 @@
 
 /**
  * _strcat - Will concatenate two strings
- * @dest: where our string will be copied into
- * @src: this will be appended into the end of dest
+ * @dest: where our string will be copied into, destination
+ * @src: this will be appended into the end of dest, source
  *
  * Return: dest
  */
